@@ -12,6 +12,6 @@ Migration Policy Framing in Political Discourse: Evidence from Canada and the US
 
 ## Working Papers:
 
-Voting for Rights?: Ethnic Heterogeneity, Elections, and Respect for Human Rights? (with David R. Davis).
+Voting for Rights?: Ethnic Heterogeneity, Elections, and Respect for Human Rights (with David R. Davis).
 
-How Wide are Policy Windows?: Naive Bayes Classification on Security Related topics?? (with Sanja Hajdinjak, Tyler Amos).
+How Wide are Policy Windows?: Naive Bayes Classification on Security Related topics (with Sanja Hajdinjak, Tyler Amos).
