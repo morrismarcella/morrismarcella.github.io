@@ -24,7 +24,7 @@ Introduction to Comparative Politics-POLS120; Fall 2018, Grader
 Experiential Learning in Terrorism Studies-BSST386; Spring 2016, Instructor
 
 
-Leadership Practicum [for officers]: Dean?s Student Advisory Council-BSOS358D[L]; Spring 2016, Spring 2017, Instructor
+Leadership Practicum [for officers]: Dean's Student Advisory Council-BSOS358D[L]; Spring 2016, Spring 2017, Instructor
 
 
 Leadership Practicum: Dean's Student Advisory Council-BSOS25[4]8D; Fall 2015, Fall 2016, Instructor
