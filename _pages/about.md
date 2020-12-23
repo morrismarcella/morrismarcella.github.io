@@ -11,5 +11,7 @@ I'm a Ph.D. Candidate at Emory University in Atlanta, Georgia. My research focus
 
 To that end, I'm interested in quantitative, statistical, and causally informed along with text-as-data and other qualitative research methods. I work to apply these methods cross-nationally to understand the dynamics surrounding civil conflict termination and post-conflict institution building where they arise. 
 
+Aside from conflict termination dynamics, I am also interested in researching ethnic politics, self determination movements, and political violence broadly. 
+
 Contact: mhmorr3 [at] emory [dot] edu 
 
