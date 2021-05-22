@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can download a copy of my CV [here](/files/Morris_Marcella_cv.pdf). 
+You can download a copy of my CV [here](/files/Morris_CV_updated_5_21_2021.pdf). 
